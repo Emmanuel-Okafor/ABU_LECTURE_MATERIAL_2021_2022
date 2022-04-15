@@ -1,4 +1,4 @@
-The course  module  content includes;
+The course  module contains the following contents;
 1. Supervised Learning
 2. How  Supervised  Learning Work?
 3. Steps Involved  in Supervised  Learning
